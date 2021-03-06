@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "899556916327",
+    "firebase_url": "https://friends-chat-514b0.firebaseio.com",
+    "project_id": "friends-chat-514b0",
+    "storage_bucket": "friends-chat-514b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899556916327:android:66b1aee445955ae55be8c2",
+        "android_client_info": {
+          "package_name": "com.example.friendschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899556916327-4egql7ei32n5utpqs3q451abn17q1nqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.friendschat",
+            "certificate_hash": "6b326c3d5bc26e0e87accfa69f238aeac1085652"
+          }
+        },
+        {
+          "client_id": "899556916327-u67pad9ndt88o9nmfu9vpnrr2hr9lkn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgOtkXlpVEbxRYjxM4rQYwYdY2V0TGZuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899556916327-u67pad9ndt88o9nmfu9vpnrr2hr9lkn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
