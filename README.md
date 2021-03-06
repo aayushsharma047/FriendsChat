@@ -1,0 +1,6 @@
+# FriendsChat
+Internet-based Chat Applications have become integral software in every smart device. They are the most widely used application to interact personally or in a group. With a range of features and document sharing options, chat applications suffice the needs of everyone in the present day.
+
+However, with their widespread usage, these applications (eg. WhatsApp, Telegram) are often used to circulate harmful information. They are even used to discuss and pre-plan attacks and unsocial activities by terrorists and extremists. Being a social interaction platform, these issues are serious and need to be tackled appropriately.
+
+Friends Chat consists of an intelligent interaction platform for android devices, where the messages being exchanged over the groups will be analyzed in real-time through Natural Language Processing to determine the sentiment of a string of chats. The evaluated score would be used to judge whether the talk is legitimate or bad, according to which, those users and groups would be marked and harmful chats would be discarded automatically. The application uses the real-time database and firebase functions. The sentiment is analyzed through the Google cloud natural language processing API.   
